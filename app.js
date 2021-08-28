@@ -10,6 +10,5 @@ questionBox.forEach(function (singleB) {
       }
     });
     singleB.classList.toggle("show-text");
-    console.log(iconBox);
   });
 });
